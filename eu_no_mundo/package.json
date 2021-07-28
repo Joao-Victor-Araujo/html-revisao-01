@@ -1,0 +1,15 @@
+{
+  "name": "eu-no-mundo",
+  "version": "1.0.0",
+  "description": "eu_no_mundo",
+  "main": "eu_no_mundo.html",
+  "scripts": {
+  },
+  "keywords": [
+    "eu",
+    "no",
+    "mundo"
+  ],
+  "author": "joaovictor",
+  "license": "ISC"
+}

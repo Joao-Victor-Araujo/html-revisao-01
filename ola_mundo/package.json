@@ -1,0 +1,14 @@
+{
+  "name": "ola-mundo",
+  "version": "1.0.0",
+  "description": "meu primeiro projeto em npm",
+  "main": "index.html",
+  "scripts": {
+  },
+  "keywords": [
+    "ola",
+    "mundo"
+  ],
+  "author": "joaovictor",
+  "license": "ISC"
+}
